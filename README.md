@@ -5,6 +5,7 @@ GNN-3D-Tutor aims to lower the steep learning curve of Graph Neural Networks (GN
 
 ## Resources
 - Intro to Graph Machine Learning content: [Google Slides](https://docs.google.com/presentation/d/16dVkxHLg-pXxc9kGAb7WRJxz_rXpZWIQexV3rWZDVzg/edit?usp=sharing)
+- PPT used in Project Proposal and Progress: [Google Slides](https://docs.google.com/presentation/d/15OtK3aObPgAWxQKaQJZm7Gbmh1ORBqzyUDHOtgNpb08/edit?usp=sharing)
 #### VR-based learning material:
 - Part 01 (Retention): https://youtu.be/P6C841qp0bI (3min)
 - Part 02 (Understanding): https://youtu.be/8mVwqaLwV3Y (4min)
@@ -29,9 +30,9 @@ GNN-3D-Tutor aims to lower the steep learning curve of Graph Neural Networks (GN
 - NVIDIA GeForce GTX 1650
 
 ## Important links
-- Presentation video:
-- Short video:
-- Demo+Code video:
+- Presentation video: https://youtube.com/live/EUCYLw4dAQY (30min)
+- Short video: https://youtube.com/live/APj7suve44k (5min)
+- Demo+Code video: https://youtube.com/live/bKxVBejHmTE (14min)
 - CS567 GitHub: https://github.com/csu-hci-projects/FA23-GNN-3D-Tutor
 - Personal GitHub: https://github.com/armandocodigos/GNN-3D-Tutor
 - Overleaf project: https://www.overleaf.com/read/xrtwgwhpgszk#e5550a
