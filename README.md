@@ -30,6 +30,7 @@ GNN-3D-Tutor aims to lower the steep learning curve of Graph Neural Networks (GN
 - NVIDIA GeForce GTX 1650
 
 ## Important links
+- Link to Google Drive: [Source Code + MP4 videos](https://drive.google.com/drive/folders/1KyclpTevrmDu9-5OO0ZtFQZ_vf9kJeZx?usp=sharing)
 - Presentation video: https://youtube.com/live/EUCYLw4dAQY (30min)
 - Short video: https://youtube.com/live/APj7suve44k (5min)
 - Demo+Code video: https://youtube.com/live/bKxVBejHmTE (14min)
